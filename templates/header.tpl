@@ -21,7 +21,7 @@
         <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="motos">Motos</a>
         <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="videojuegos">Video juegos</a>
         <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="luces">Luces</a>
-        <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="#">Seccion franco</a>
+        <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="aeronaves">Aeronaves</a>
         <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="#">Seccion gaspacho</a>
         <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="#">Seccion juani</a>
         <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="#">Seccion tomi</a>

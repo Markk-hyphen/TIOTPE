@@ -27,4 +27,7 @@ class VehiculosView{
     public function mostrarVideoJuegos(){
         $this->smarty->display('templates/videojuegos.tpl');
     }
+    public function mostrarAeronaves(){
+        $this->smarty->display('templates/aeronaves.tpl');
+    }
 }

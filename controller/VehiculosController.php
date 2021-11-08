@@ -25,4 +25,7 @@ class VehiculosController{
     public function motos(){
         $this->view->mostrarMotos();
     }
+    public function aeronaves(){
+        $this->view->mostrarAeronaves();
+    }
 }
