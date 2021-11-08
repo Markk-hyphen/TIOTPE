@@ -33,8 +33,8 @@
         <tr data-id="4">
         <th scope="row">4</th>
         <td>Halogena</td>
+        <td>NO</td>
         <td>1230123012213KWh</td>
-        <td>2004</td>
     </tr>
   </tbody>
 </table>
