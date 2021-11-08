@@ -5,6 +5,8 @@
     <p>Agustin Carretto &nbsp;&nbsp;|&nbsp;&nbsp; <span class="color-primary">+54 9 31-2522</span></p>
     <p>Ledesma Lautaro &nbsp;&nbsp;|&nbsp;&nbsp; <span class="color-primary">+54 9 65-5861</span></p>
     <p>Franco Kain &nbsp;&nbsp;|&nbsp;&nbsp; <span class="color-primary">+54 9 43-70110</span></p>
+    <p>Juan Ignacio Suarez &nbsp;&nbsp;|&nbsp;&nbsp; <span class="color-primary">+54 9 23-6433</span></p>
+
     <!-- Solo tienen que copypastear este parrafo y poner sus datos-->
 </section>
 {include file="footer.tpl"}
