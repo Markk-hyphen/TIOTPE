@@ -22,7 +22,7 @@
                     <a class="" href="#">Seccion gaspacho</a>
                 </li>
                 <li class="border-primary border-3 ps-3 pe-3 ms-1 display-6">
-                    <a class="" href="#">Seccion juani</a>
+                    <a class="" href="#">Barcos</a>
                 </li>
                 <li class="border-primary border-3 ps-3 pe-3 ms-1 display-6">
                     <a class="" href="#">Seccion tomi</a>

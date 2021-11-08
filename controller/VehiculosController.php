@@ -26,6 +26,10 @@ class VehiculosController{
         $this->view->mostrarMotos();
     }
 
+    public function barcos(){
+        $this->view->mostrarBarcos();
+    }
+
     public function aboutUs(){
         $this->view->mostrarAboutUs();
     }
