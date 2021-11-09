@@ -36,6 +36,13 @@
         <td>NO</td>
         <td>12301232213KWh</td>
     </tr>
+        </tr>
+        <tr data-id="5">
+        <th scope="row">5</th>
+        <td>Hiperbarica</td>
+        <td>NO</td>
+        <td>3,112141592KWh</td>dsadas
+    </tr>
   </tbody>
 </table>
 </section>
