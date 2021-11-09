@@ -11,6 +11,7 @@ $router->addRoute('luces', "GET", "VehiculosController", "luces");
 $router->addRoute('aboutus', "GET", "VehiculosController", "aboutUs");
 $router->addRoute('barcos', "GET", "VehiculosController", "barcos");
 $router->addRoute('bicicletas', "GET", "VehiculosController", "bicicletas");
+$router->addRoute('aeronaves', "GET", "VehiculosController", "aeronaves");
 $router->setDefaultRoute("VehiculosController", "home");
 $router->route($_GET['action'], $_SERVER['REQUEST_METHOD']);
 

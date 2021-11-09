@@ -37,4 +37,7 @@ class VehiculosView{
     public function mostrarAboutUs(){
         $this->smarty->display('templates/aboutUs.tpl');
     }
+    public function mostrarAeronaves(){
+        $this->smarty->display('templates/aeronaves.tpl');
+    }
 }
