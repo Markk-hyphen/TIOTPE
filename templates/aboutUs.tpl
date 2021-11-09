@@ -7,6 +7,7 @@
     <p>Franco Kain &nbsp;&nbsp;|&nbsp;&nbsp; <span class="color-primary">+54 9 43-70110</span></p>
     <p>Juan Ignacio Suarez &nbsp;&nbsp;|&nbsp;&nbsp; <span class="color-primary">+54 9 23-6433</span></p>
     <p>Tomas Nicolas Quinteros &nbsp;&nbsp;|&nbsp;&nbsp; <span class="color-primary">+54 9 28-4444</span></p>
+    <p>Beltran Peña &nbsp;&nbsp;|&nbsp;&nbsp; <span class="color-primary">+54 9 78-5428</span></p>
     <!-- Solo tienen que copypastear este parrafo y poner sus datos-->
 </section>
 {include file="footer.tpl"}
