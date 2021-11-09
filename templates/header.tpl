@@ -22,8 +22,7 @@
         <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="videojuegos">Video juegos</a>
         <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="luces">Luces</a>
         <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="barcos">Barcos</a>
-        <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="#">Seccion gaspacho</a>
-        <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="#">Seccion tomi</a>
+        <a class="nav-link border-bottom border-primary border-3 px-3 ms-1 display-7" href="#">Seccion Gaspar</a>
       </div>
       <img class="ms-4" alt="autoConCara" src="https://smartcdn.prod.postmedia.digital/driving/images?url=http://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2014/07/sprite.jpg&w=580&h=370" width="325" height="200">
     </div>
