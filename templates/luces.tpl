@@ -34,7 +34,7 @@
         <th scope="row">4</th>
         <td>Halogena</td>
         <td>NO</td>
-        <td>12301232213KWh</td>
+        <td>123012322KWh</td>
     </tr>
   </tbody>
 </table>
