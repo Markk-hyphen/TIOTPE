@@ -19,13 +19,13 @@
                     <a class="" href="#">Seccion franco</a>
                 </li>
                 <li class="border-primary border-3 ps-3 pe-3 ms-1 display-6">
-                    <a class="" href="#">Seccion gaspacho</a>
+                    <a class="" href="#">Seccion Gaspar</a>
                 </li>
                 <li class="border-primary border-3 ps-3 pe-3 ms-1 display-6">
-                    <a class="" href="#">Barcos</a>
+                    <a class="" href="barcos">Barcos</a>
                 </li>
                 <li class="border-primary border-3 ps-3 pe-3 ms-1 display-6">
-                    <a class="" href="#">Seccion tomi</a>
+                    <a class="" href="luces">Luces</a>
                 </li>
     </ul>
 </main>
